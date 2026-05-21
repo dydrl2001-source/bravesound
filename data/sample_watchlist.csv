@@ -1,7 +1,7 @@
-ticker,name,sector,market_cap_억,trading_value_rank_today,trading_value_rank_yesterday,high_gap_pct,theme_count,news_score,leader_score,close_above_ma5,close_above_ma20,volume_change_pct,intraday_strength_score,pullback_quality_score,vwap_reclaim,near_day_high,closing_strength_score,next_day_catalyst_score,closing_position_score
-000001,예시반도체,AI반도체,8500,12,35,4.5,5,8,9,1,1,120,9,8,1,1,8,8,8
-000002,예시전력,전력기기,32000,8,18,6.8,4,7,8,1,1,95,8,7,1,1,7,7,7
-000003,예시통신,통신장비,4200,44,0,9.5,3,6,7,1,0,80,7,6,1,0,5,6,5
-000004,예시바이오,바이오,900,5,12,3.2,1,5,4,1,1,200,6,5,1,0,5,5,5
-000005,예시후발주,AI반도체,2600,0,0,18.0,2,3,3,0,0,30,3,3,0,0,3,3,3
-000006,예시조선기자재,조선기자재,15000,31,22,5.1,4,7,7,1,1,70,7,8,1,0,8,8,8
+ticker,name,sector,market_cap_억,trading_value_rank_today,trading_value_rank_yesterday,high_gap_pct,theme_count,news_score,leader_score,close_above_ma5,close_above_ma20,volume_change_pct,price_change_pct,top15_after_930,sector_leader_rank,first_big_bull_candle,breakout_high_6m,support_resistance_score,second_low_confirmed,loss_cut_ready,position_size_pct,intraday_strength_score,pullback_quality_score,vwap_reclaim,near_day_high,execution_window_score,closing_strength_score,next_day_catalyst_score,closing_position_score,long_upper_shadow_risk,volume_dry_up_risk,washout_risk,fomo_risk
+000001,예시반도체,AI반도체,8500,12,35,4.5,5,8,9,1,1,120,12.5,1,1,1,1,8,1,1,30,9,8,1,1,8,8,8,8,0,0,0,0
+000002,예시전력,전력기기,32000,8,18,6.8,4,7,8,1,1,95,9.2,1,1,1,1,7,1,1,30,8,7,1,1,7,7,7,7,0,0,0,0
+000003,예시통신,통신장비,4200,44,0,9.5,3,6,7,1,0,80,6.3,0,2,0,0,6,1,1,25,7,6,1,0,6,5,6,5,0,0,0,0
+000004,예시바이오,바이오,900,5,12,3.2,1,5,4,1,1,200,18.1,1,3,1,0,5,0,1,20,6,5,1,0,5,5,5,5,1,0,0,1
+000005,예시후발주,AI반도체,2600,0,0,18.0,2,3,3,0,0,30,4.2,0,5,0,0,3,0,0,80,3,3,0,0,3,3,3,3,1,1,1,1
+000006,예시조선기자재,조선기자재,15000,31,22,5.1,4,7,7,1,1,70,7.8,0,2,1,1,8,1,1,30,7,8,1,0,7,8,8,8,0,0,0,0
